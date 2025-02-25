@@ -3,10 +3,10 @@
 This project is the recreation of Paligemma.
 
 ---
-![alt text]({A5BA6342-794F-43CF-A8AA-5837C86BDEED}.png)
-![alt text]({ABC2C437-9924-4118-ACB7-197DAEC81ECB}.png)
-![alt text]({E6596B16-98C5-470E-AB49-8B330527CFA2}.png)
-![alt text]({EFB502E1-0170-4AED-B9AC-42CBB98F551A}.png)
+![alt text](images/{A5BA6342-794F-43CF-A8AA-5837C86BDEED}.png)
+![alt text](images/{ABC2C437-9924-4118-ACB7-197DAEC81ECB}.png)
+![alt text](images/{E6596B16-98C5-470E-AB49-8B330527CFA2}.png)
+![alt text](images/{EFB502E1-0170-4AED-B9AC-42CBB98F551A}.png)
 ---
 ## 🚀 Setup Instructions
 
