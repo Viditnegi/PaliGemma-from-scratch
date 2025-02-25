@@ -1,6 +1,6 @@
 # 🌟 PaliGemma-from-scratch
 
-This project is the recreation of Paligemma.
+This project is the recreation of Paligemma from scratch while learning various concepts!.
 
 ---
 ![alt text](images/{A5BA6342-794F-43CF-A8AA-5837C86BDEED}.png)
